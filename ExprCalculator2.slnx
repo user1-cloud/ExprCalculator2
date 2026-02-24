@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ExprCalculator2/ExprCalculator2.vcxproj" Id="2f360fb4-4667-4493-b5fa-b5dcacf3c54d" />
+</Solution>
